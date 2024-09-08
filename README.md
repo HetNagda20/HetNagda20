@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Het Nagda</h1>
 <h3 align="center">A passionate Full-stack developer from India with strong knowledge on Python and Django framework.</h3>
 
+- 🔭 Currently I am Pursuing **MSCS at UIC**
+
+- 🌱 I’m currently learning **Scala and Ruby on Rails**
+
+- 👯 Ex- **Accenture**
+
 - 📫 How to reach me **hnagd@uic.edu**
 
 <h3 align="left">Connect with me:</h3>
