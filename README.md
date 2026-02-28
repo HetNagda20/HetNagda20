@@ -7,7 +7,7 @@
 
 - 👯 Ex- **Accenture**
 
-- 📫 How to reach me **hnagd@uic.edu**
+- 📫 How to reach me **hetrnagda@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
