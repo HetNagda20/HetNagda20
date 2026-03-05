@@ -9,7 +9,7 @@
   <a href="mailto:hetrnagda@gmail.com">
     <img src="https://img.shields.io/badge/Email-hetrnagda@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://hetnagda20.github.io/het-website/" target="blank">
+  <a href="https://hetnagda20.github.io" target="blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-22c55e?style=flat&logo=google-chrome&logoColor=white" />
   </a>
 </p>
