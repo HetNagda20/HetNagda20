@@ -63,3 +63,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=HetNagda20&show_icons=true&theme=dark&hide_border=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HetNagda20&layout=compact&theme=dark&hide_border=true" height="150"/>
 </p>
+![](https://hits.sh/github.com/HetNagda20.svg)
