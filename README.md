@@ -28,9 +28,8 @@
 | Project | Stack | Highlights |
 |---|---|---|
 | [**Distributed LLM Inference Engine**](https://github.com/HetNagda20) | Scala, AWS, Spark, Akka HTTP, gRPC | MapReduce tokenization on AWS EMR · Spark distributed training · gRPC-Lambda microservice |
-| [**Cancer Nutrition Analytics Dashboard**](https://github.com/HetNagda20) | React, D3.js, JavaScript, TopoJSON | 7 custom visualizations · 724 patients · sub-100ms cross-chart interactions |
+| [**Cancer Nutrition Analytics Dashboard**](https://github.com/HetNagda20/Cancer-Nutrition-Analytics-Dashboard) | React, D3.js, JavaScript, TopoJSON | 7 interactive visualizations · NHANES data · cross-chart filtering · deployed on GitHub Pages |
 | [**Chicago Energy Performance Navigator**](https://github.com/HetNagda20) | Python, Scikit-learn, Streamlit, Plotly | Ensemble ML · 93% accuracy · K-means clustering · geospatial benchmarking |
-
 ---
 
 ### 🛠️ Tech Stack
